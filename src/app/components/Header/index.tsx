@@ -13,12 +13,10 @@ const Header = () => {
       <div className="container flex justify-between items-center relative px-12 md:px-16">
         {/* Brand Name */}
         <div className="mr-8">
-          <p
-            className="text-[44px] text-white font-serif font-bold ml-7"
-            style={{ fontFamily: "'Dancing Script', cursive" }}
-          >
-            Nyawargak Gatchang
+          <p className="text-[44px] text-white font-dancing font-bold ml-7">
+              Nyawargak Gatchang
           </p>
+
         </div>
 
         {/* Hamburger Menu Icon */}
