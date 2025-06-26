@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState } from 'react';
 import { FaLaptopCode, FaMobileAlt, FaDatabase, FaCloud, FaProjectDiagram, FaPencilRuler, FaArrowRight } from 'react-icons/fa'; // Importing icons
 
